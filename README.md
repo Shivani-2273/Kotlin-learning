@@ -1,7 +1,7 @@
 ## Topics 
 
-Datatypes
-Collections(List, Set and Map with functions - Mutable and Read-only)
+1. Datatypes
+2. Collections(List, Set and Map with functions - Mutable and Read-only)
 Reflection API
 Type casting
 Loops(for, while and do-while) and Control flow(if, when and Range)
