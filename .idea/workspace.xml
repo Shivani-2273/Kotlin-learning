@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="546e7743-abb9-44ad-b50f-919f272eec42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2a73T5dOGkjxcRKEh7Iz5nOKFEa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.CombinedDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ControlFlowKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DataTypeDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FirstClassKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FizzBuzzKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunctionsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.HelloworldKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ListKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LoopsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.MapKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.NullSafetyDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RangeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SetKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TestingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TypeConversionDemoKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/media/root316/Data/Kotlin/demo-projecr/src/main/kotlin/Main.kt&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Kotlin.FunctionsKt">
+    <configuration name="ControlFlowKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControlFlowKt" />
+      <module name="demo-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzKt" />
+      <module name="demo-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+      <module name="demo-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopsKt" />
+      <module name="demo-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RangeKt" />
+      <module name="demo-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="LiferayServerConfiguration" factoryName="Liferay Server">
+      <option name="alternativeJrePath" value="" />
+      <option name="alternativeJrePathEnabled" value="true" />
+      <option name="buildType" value="" />
+      <option name="bundleLocation" value="" />
+      <option name="developerMode" value="true" />
+      <option name="gogoShellPort" value="11311" />
+      <option name="passParentEnvironments" value="true" />
+      <option name="vmParameters" value="-Xmx2560m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m" />
+      <envs>
+        <env name="PATH" value="/usr/lib/jvm/jdk-17.0.9/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/opt/apache-maven-3.8.4/bin:/snap/bin:$USER_HOME$/jpm/bin" />
+        <env name="XAUTHORITY" value="/run/user/1000/gdm/Xauthority" />
+        <env name="INVOCATION_ID" value="13d2199cfded4972be8afebab0cfc190" />
+        <env name="XMODIFIERS" value="@im=ibus" />
+        <env name="XDG_DATA_DIRS" value="/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop" />
+        <env name="GDMSESSION" value="ubuntu" />
+        <env name="MANDATORY_PATH" value="/usr/share/gconf/ubuntu.mandatory.path" />
+        <env name="SNAP_COMMON" value="/var/snap/intellij-idea-ultimate/common" />
+        <env name="SNAP_INSTANCE_KEY" value="" />
+        <env name="SNAP_USER_COMMON" value="$USER_HOME$/snap/intellij-idea-ultimate/common" />
+        <env name="DBUS_SESSION_BUS_ADDRESS" value="unix:path=/run/user/1000/bus,guid=4033ec8d18b877a1025cbae065867eef" />
+        <env name="DEFAULTS_PATH" value="/usr/share/gconf/ubuntu.default.path" />
+        <env name="SNAP_REVISION" value="470" />
+        <env name="XDG_CURRENT_DESKTOP" value="ubuntu:GNOME" />
+        <env name="JOURNAL_STREAM" value="8:63372" />
+        <env name="SSH_AGENT_PID" value="2628" />
+        <env name="SESSION_MANAGER" value="local/root316:@/tmp/.ICE-unix/2671,unix/root316:/tmp/.ICE-unix/2671" />
+        <env name="USERNAME" value="root316" />
+        <env name="LOGNAME" value="root316" />
+        <env name="PWD" value="$USER_HOME$" />
+        <env name="MANAGERPID" value="2409" />
+        <env name="IM_CONFIG_PHASE" value="1" />
+        <env name="SNAP_UID" value="1000" />
+        <env name="LANGUAGE" value="en_IN:en" />
+        <env name="SHELL" value="/bin/bash" />
+        <env name="GIO_LAUNCHED_DESKTOP_FILE" value="/var/lib/snapd/desktop/applications/intellij-idea-ultimate_intellij-idea-ultimate.desktop" />
+        <env name="BAMF_DESKTOP_FILE_HINT" value="/var/lib/snapd/desktop/applications/intellij-idea-ultimate_intellij-idea-ultimate.desktop" />
+        <env name="GNOME_DESKTOP_SESSION_ID" value="this-is-deprecated" />
+        <env name="GTK_MODULES" value="gail:atk-bridge" />
+        <env name="SNAP_ARCH" value="amd64" />
+        <env name="M2_HOME" value="/opt/apache-maven-3.8.5" />
+        <env name="DBUS_STARTER_ADDRESS" value="unix:path=/run/user/1000/bus,guid=4033ec8d18b877a1025cbae065867eef" />
+        <env name="XDG_SESSION_DESKTOP" value="ubuntu" />
+        <env name="SNAP_LIBRARY_PATH" value="/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void" />
+        <env name="SHLVL" value="0" />
+        <env name="SNAP_EUID" value="1000" />
+        <env name="SNAP_NAME" value="intellij-idea-ultimate" />
+        <env name="QT_IM_MODULE" value="ibus" />
+        <env name="JAVA_HOME" value="/usr/lib/jvm/jdk-17.0.9" />
+        <env name="XDG_CONFIG_DIRS" value="/etc/xdg/xdg-ubuntu:/etc/xdg" />
+        <env name="LANG" value="en_IN" />
+        <env name="SNAP_INSTANCE_NAME" value="intellij-idea-ultimate" />
+        <env name="XDG_SESSION_TYPE" value="x11" />
+        <env name="SNAP_USER_DATA" value="$USER_HOME$/snap/intellij-idea-ultimate/470" />
+        <env name="DISPLAY" value=":0" />
+        <env name="SNAP_REEXEC" value="" />
+        <env name="SNAP_VERSION" value="2023.3.2" />
+        <env name="XDG_SESSION_CLASS" value="user" />
+        <env name="_" value="/usr/bin/dbus-update-activation-environment" />
+        <env name="SNAP_DATA" value="/var/snap/intellij-idea-ultimate/470" />
+        <env name="GPG_AGENT_INFO" value="/run/user/1000/gnupg/S.gpg-agent:0:1" />
+        <env name="DESKTOP_SESSION" value="ubuntu" />
+        <env name="SNAP" value="$APPLICATION_HOME_DIR$" />
+        <env name="USER" value="root316" />
+        <env name="SNAP_REAL_HOME" value="$USER_HOME$" />
+        <env name="DESKTOP_STARTUP_ID" value="org.gnome.Nautilus-86116-root316-env-1_TIME61472214" />
+        <env name="XDG_MENU_PREFIX" value="gnome-" />
+        <env name="GIO_LAUNCHED_DESKTOP_FILE_PID" value="86357" />
+        <env name="QT_ACCESSIBILITY" value="1" />
+        <env name="WINDOWPATH" value="2" />
+        <env name="SSH_AUTH_SOCK" value="/run/user/1000/keyring/ssh" />
+        <env name="GNOME_SHELL_SESSION_MODE" value="ubuntu" />
+        <env name="SNAP_CONTEXT" value="oo-CVnVlLjjKxIUwCaztuByBJNiOqJvSzATJwdlUF12didQoeW_j" />
+        <env name="XDG_RUNTIME_DIR" value="/run/user/1000" />
+        <env name="SNAP_COOKIE" value="oo-CVnVlLjjKxIUwCaztuByBJNiOqJvSzATJwdlUF12didQoeW_j" />
+        <env name="DBUS_STARTER_BUS_TYPE" value="session" />
+        <env name="HOME" value="$USER_HOME$" />
+      </envs>
+      <module name="demo-project" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FunctionsKt" />
+        <item itemvalue="Kotlin.FizzBuzzKt" />
+        <item itemvalue="Kotlin.LoopsKt" />
+        <item itemvalue="Kotlin.RangeKt" />
+        <item itemvalue="Kotlin.ControlFlowKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="546e7743-abb9-44ad-b50f-919f272eec42" name="Changes" comment="" />
+      <created>1703655796594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703655796594</updated>
+      <workItem from="1703655797667" duration="17431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
